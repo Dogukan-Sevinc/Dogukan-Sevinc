@@ -4,8 +4,9 @@
 <div>
 <strong>About Me:</strong><br>
 💻 I’m currently working on some Asp.Net Core/MVC Projects<br>
-📚 I’m graduated from Karadeniz Technical University in Turkey<br>
-📚 I'm graduated MSc program from Karadeniz Technical University in Turkey<br>
+📚 I study PhD at Karadeniz Technical University in Turkey(2021, Present)<br>
+🎓 I'm graduated MSc program from Karadeniz Technical University in Turkey(2018-2021, G.P= 3.79/4)<br>
+🎓 I’m graduated from Karadeniz Technical University in Turkey(2013-2018, G.P= 3.24/4)<br>      
 📈 I experienced in HTML, CSS, JavaScript, C#, SQL and Python.<br>
 📖 I'm currently learning Asp.Net Core/MVC and Web API.<br>
 🏆 My certifications: 
